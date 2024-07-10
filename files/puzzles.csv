@@ -1,0 +1,27 @@
+puzzleID	puzzle	answer	worth
+1	What is the smallest prime number that is the sum of three different prime numbers?	19	2
+2   	What goes all the way around the world but stays in a corner?	stamp	1
+3   	A boy rolls a die. Each time he rolls a one he writes 15. Each time he rolls a six he writes 20. What will he write when he rolls a 3?	17	4
+4   	8 - 6 = 2 | 8 + 6 = 2. With this logic what does 7 + 6 equal?	1	3
+5   	How many two-digit squares have the property that the product of their digits is also a square?	1	3
+6   	Solve for 0 <= x <= 360 Sin2x = 0.5	15,75,195,255	5
+7	The rate of change of momentum is known as..	force	2
+8	Which interaction is strangeness not conserved in?	weak interaction	2
+9	Which memory unit stores the BIOS?	rom	1
+10	State the value of resistance of a superconductor at a value below the critical temperature	0	1
+11	In what fm range is the strong nuclear force attractive?	0.5-3fm	2
+12	What is the area under a velocity time graph equal to?	displacement	2
+13	Find the coordinates of the stationary point in the third quadrant for y=x^4 - 8x^2 + 3 as (x,y)	(-2,13)	5
+14	y= 3x^2 -6x +7 find the area under the curve between x=1 and x=3	16	4
+15	Find d/dx arctanx	1/1+x^2	5
+16	Differentiate tan(x) with respect to x	sec^2(x)	4
+17	Integrate with substitution,u = x^2 + 4 2x/(x^2 + 4) with respect to x	ln(x^2+4)+c	4
+18	In asymmetric encryption, which key is used to decrypt the data?	private key	2
+19	How does a neutron rich nucleus decay?	beta minus decay	1
+20	What is the exchange particle for electromagnetic interaction?	virtual photon	1
+21	State the quark composition of a pion+ meson	up anti down	2
+22	If seven days after 70 days ago was Sunday, seven days before 70 days from today is which day?	sunday	3
+23	When light enters an optically denser material, does it bend towards or away from the normal?	towards	1
+24	What does the Young Modulus of a material show?	stiffness	1
+25	A voltage of 12V supplied to a 2 ohm resistor and a 7 ohm resistor connected in series, what is the voltage across the 7 ohm resistor	6.5	4
+26	What is the total resistance in ohms of a 3 ohm, 7 ohm and 9 ohm resistor connected in parallel?	1.7	2  
