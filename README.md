@@ -18,6 +18,7 @@ A 2D top-down exploration, archery, and puzzle game built in Python (`Pygame`) f
 
 ## Screenshots
 ![Nova Bow Main Menu](menu.png)
+![Nova Bow Gameplay](login.png)
 ![Nova Bow Gameplay](game1.png)
 ![Nova Bow Gameplay](game2.png)
 ![Nova Bow Gameplay](puzzle.png)
