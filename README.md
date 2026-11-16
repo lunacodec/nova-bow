@@ -17,5 +17,10 @@ A 2D top-down exploration, archery, and puzzle game built in Python (`Pygame`) f
 * **Object-Oriented Structure:** Modular classes for `Player`, `Arrow`, `Enemy` (with horizontal/vertical inheritance subclasses), `puzzleBox`, and interactive UI components (`Button`, `textBox`).
 
 ## Screenshots
-![Nova Bow Main Menu](mainMenu.png)
-![Nova Bow Gameplay](area1.png)
+![Nova Bow Main Menu](menu.png)
+![Nova Bow Gameplay](game1.png)
+![Nova Bow Gameplay](game2.png)
+![Nova Bow Gameplay](puzzle.png)
+![Nova Bow Gameplay](pause.png)
+![Nova Bow Gameplay](leaderboard.png)
+
